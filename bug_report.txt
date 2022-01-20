@@ -1,1 +1,14 @@
-bug_report
+"Summary" short description
+"Project" project name
+"Component" the component in which the defect was detected
+"Version" the version of the assembly on which the detected defect is reproduced
+"Severity" criticality of the defect
+"Priority" the order of correction of the defect
+"Status" the status of the defect in its life cycle
+"Author" the creator of the bug report
+"Assigned to" name of the employee assigned to solve the problem
+"Environment" name and version of the browser, version OS, service pack
+"Steps to Reproduce" defect reproduction steps
+"Result" the result obtained after passing the steps to playback
+"Expected Result" expected correct result
+"Attachment" a log file, screenshot, or any other document that can help clarify the cause of the error
